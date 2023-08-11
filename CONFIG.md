@@ -15,7 +15,7 @@ feeventsjp
 
 > This is the description of the feed.
 
-ファイアーエムブレムの同人イベントに関するキーワードを拾います。現在の設定→「刻印の誇り（こくほこ）」「黎明の星の下にて（れいほし）」「5年目の同窓会（同５会）」WEBオンリーの追加情報お待ちしております。
+ファイアーエムブレムの同人イベントに関するキーワードを拾います。現在の設定→「刻印の誇り」「黎明の星の下にて」「5年目の同窓会」WEBオンリーの追加情報お待ちしております。
 
 # searchTerms
 
@@ -26,7 +26,8 @@ feeventsjp
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - 刻印の誇り
-- "こくほこ"
+- 黎明の星の下にて
+- 5年目の同窓会
 
 
 # safeMode
