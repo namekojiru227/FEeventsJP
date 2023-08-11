@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-king-ohger
+feeventsjp
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-キングオージャー専用フィード
+ファイアーエムブレム同人イベント情報・改
 
 # description
 
 > This is the description of the feed.
 
-王様戦隊キングオージャーに関するキーワードを拾います。
+ファイアーエムブレムの同人イベントに関するキーワードを拾います。現在の設定→「刻印の誇り（こくほこ）」「黎明の星の下にて（れいほし）」「5年目の同窓会（同５会）」WEBオンリーの追加情報お待ちしております。
 
 # searchTerms
 
@@ -25,93 +25,19 @@ king-ohger
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- 王様戦隊
-- キングオージャー
-- ギラ
-- ギラ・ハスティー
-- クワガタオージャー
-- キングクワガタオージャー
-- ヤンマ
-- ヤンマ・ガスト
-- トンボオージャー
-- ヒメノ
-- ヒメノ・ラン
-- カマキリオージャー
-- カグラギ
-- カグラギ・ディボウスキ
-- ハチオージャー
-- リタ・カニスカ
-- パピヨンオージャー
-- もっふん
-- ジェラミー
-- ジェラミー・ブラシエリ
-- スパイダークモノス
-- シュゴッダム
-- コーカサスカブト城
-- ラクレス
-- ラクレス・ハスティー
-- オオクワガタオージャー
-- ドゥーガ
-- ボシマール
-- コガネ
-- ブーン
-- ゴローゲ
-- ンコソパ
-- ペタ城
-- シオカラ
-- アッカ
-- ウスバ
-- マユタ
-- イシャバーナ
-- フラピュタル城
-- セバスチャン
-- エレガンス
-- ゴッカン
-- ザイバーン城
-- モルフォーニャ
-- トウフ
-- タキタテ城
-- クロダ
-- スズメ
-- スズメ・ディボウスキ
-- オージャカリバー
-- キングズウエポン
-- キングズホットライン
-- キングスピーダー
-- クモノスレイヤー
-- ヴェノミックスシューター
-- スパイダークモノスキー
-- クモノスキーホルダー
-- オージャクラウン
-- オージャクラウンランス
-- シュゴッド
-- ゴッドクワガタ
-- クワゴン
-- ゴッドトンボ
-- ゴッドカマキリ
-- ゴッドハチ
-- ゴッドパピヨン
-- ゴッドクモ
-- ゴッドテントウ
-- ゴッドアント
-- ゴッドカブト
-- カブタン
-- ゴッドスコーピオン
-- サソリーヌ
-- すこピ
-- ゴッドホッパー
-- ゴッドタランチュラ
-- タランチュラナイト
-- バグナラク
-- デズナラク8世
-- カメジム
-- ゲロウジーム
-- ネフィラ
-- ベダリア
-- コフキ
-- ライニオール
-- デボニカ
-- イロキ
+- 刻印の誇り
+- こくほこ
+- 黎明の星の下にて
+- れいほし
+- 5年目の同窓会
+- 同5会
+- ５年目の同窓会
+- 同５会
+- ファイアーエムブレム同人イベント情報
+- ファイアーエムブレム同人イベントフィード
+- FE同人イベント情報
+- FE同人イベントフィード
+
 
 # safeMode
 
@@ -125,4 +51,4 @@ true
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
 
-![](king-ohger.png)
+![](avatar.png)
