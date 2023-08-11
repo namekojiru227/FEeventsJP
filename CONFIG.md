@@ -9,13 +9,13 @@ feeventsjp
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-ファイアーエムブレム同人イベント情報・改（テスト中）
+ファイアーエムブレム同人イベント情報・改
 
 # description
 
 > This is the description of the feed.
 
-ファイアーエムブレムの同人イベントに関するキーワードを拾います。現在の設定→「刻印の誇り」「黎明の星の下にて」「5年目の同窓会」WEBオンリーの追加情報お待ちしております。
+ファイアーエムブレムの同人イベントに関するキーワードを拾います。現在の設定：刻印の誇り/黎明の星の下にて/5年目の同窓会（略称は拾いません）WEBオンリーの追加情報お待ちしております。
 
 # searchTerms
 
