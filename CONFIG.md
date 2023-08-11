@@ -9,7 +9,7 @@ feeventsjp
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-ファイアーエムブレム同人イベント情報・改
+ファイアーエムブレム同人イベント情報・改（テスト中）
 
 # description
 
