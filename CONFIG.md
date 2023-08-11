@@ -38,7 +38,6 @@ feeventsjp
 - FE同人イベント情報
 - FE同人イベントフィード
 
-
 # safeMode
 
 > Safe mode limits the total number of API calls coming from Cloudflare.
