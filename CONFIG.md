@@ -26,7 +26,6 @@ feeventsjp
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - 刻印の誇り
-- こくほこ
 - 黎明の星の下にて
 - 5年目の同窓会
 
@@ -43,4 +42,4 @@ true
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
 
-![](avatar.png)
+![](fe.jpg)
