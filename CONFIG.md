@@ -28,6 +28,7 @@ feeventsjp
 - 刻印の誇り
 - 黎明の星の下にて
 - 5年目の同窓会
+- https://bsky.app/profile/otaki-mugem-3.bsky.social/post/3k4wbqfdc7i2d
 
 
 # safeMode
